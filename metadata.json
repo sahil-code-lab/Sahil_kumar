@@ -1,0 +1,6 @@
+{
+  "name": "FitForge AI",
+  "description": "FitForge AI — Your Personal Fitness & Muscle Growth Coach. AI workout planner, nutrition & Indian foods tracker, interactive workout sessions, and progress charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
